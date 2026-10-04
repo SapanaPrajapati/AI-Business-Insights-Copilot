@@ -375,7 +375,7 @@ The application will open in your browser.
 
 > Screenshots and dashboard previews will be added here.
 
-### Dashboard
+### PowerBI  Dashboard
 
 ```text
 Executive Dashboard 
