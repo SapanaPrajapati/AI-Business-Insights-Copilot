@@ -1,0 +1,9 @@
+| Package         | Used for                           |
+| --------------- | ---------------------------------- |
+| `streamlit`     | Web dashboard/application          |
+| `pandas`        | Data processing                    |
+| `plotly`        | Interactive charts                 |
+| `SQLAlchemy`    | Database connection/query handling |
+| `PyMySQL`       | MySQL connection                   |
+| `python-dotenv` | Reading `.env` variables           |
+| `google-genai`  | Gemini AI integration              |
